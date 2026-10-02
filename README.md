@@ -64,4 +64,6 @@ This toolkit is decision support. Accountability for decisions stays with the pe
 
 ## How to cite
 
-Chopra, A. (2026). *Usage-Based AI FP&A Toolkit* (v1.0.0) [Software]. Companion to "Financial Planning for Agentic & AI Systems: Managing Volatility in the Age of Autonomy", California Management Review Insights. Add the DOI or repository link here once published.
+Chopra, A. (2026). Usage-Based AI FP&A Toolkit [Software]. Zenodo. https://doi.org/10.5281/zenodo.23094239
+
+This DOI represents all versions and always resolves to the latest one. Zenodo also lists a separate DOI for each version if you need to cite an exact release. Companion to: Chopra, A. (2026), "Financial Planning for Agentic & AI Systems: Managing Volatility in the Age of Autonomy", California Management Review Insights.

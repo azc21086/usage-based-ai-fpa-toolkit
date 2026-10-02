@@ -1,0 +1,62 @@
+{
+  "model_name": "Usage-Based AI FP&A Toolkit - synthetic example",
+  "usage": {
+    "starting_customers": 200,
+    "interactions_per_customer_per_month": 2000,
+    "tokens_per_interaction": 4000
+  },
+  "pricing": {
+    "price_per_1k_tokens": 0.02,
+    "prepaid_share": 0.4,
+    "prepaid_discount": 0.2,
+    "subscription_fee_per_customer_per_month": 0
+  },
+  "llm_cost": {
+    "provider_cost_per_1k_tokens": 0.006
+  },
+  "cloud_cost": {
+    "compute_per_1k_interactions": 12.0,
+    "storage_per_1k_interactions": 3.0,
+    "network_per_1k_interactions": 5.0,
+    "discount": 0.1
+  },
+  "other": {
+    "other_cost_of_revenue_pct": 0.05
+  },
+  "investment": {
+    "upfront_investment": 750000,
+    "risk_haircuts": {
+      "technical": 0.1,
+      "data_readiness": 0.1,
+      "adoption": 0.15
+    }
+  },
+  "scenarios": {
+    "low": {
+      "monthly_customer_growth": 0.02,
+      "monthly_interaction_growth": 0.005,
+      "annual_llm_cost_decline": 0.1,
+      "annual_cloud_cost_decline": 0.0,
+      "efficiency_gain": 0.05
+    },
+    "base": {
+      "monthly_customer_growth": 0.04,
+      "monthly_interaction_growth": 0.01,
+      "annual_llm_cost_decline": 0.25,
+      "annual_cloud_cost_decline": 0.05,
+      "efficiency_gain": 0.1
+    },
+    "high": {
+      "monthly_customer_growth": 0.06,
+      "monthly_interaction_growth": 0.015,
+      "annual_llm_cost_decline": 0.4,
+      "annual_cloud_cost_decline": 0.1,
+      "efficiency_gain": 0.2
+    }
+  },
+  "actuals": {
+    "months_of_actuals": 12,
+    "actual_investment_to_date": 750000,
+    "actual_cumulative_gross_margin_to_date": 190000
+  }
+}

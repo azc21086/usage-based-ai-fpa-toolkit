@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this toolkit, please cite it as below."
+title: "Usage-Based AI FP&A Toolkit"
+version: 1.0.0
+date-released: 2026-10-01
+type: software
+license: MIT
+authors:
+  - family-names: "Chopra"
+    given-names: "Ankit"
+abstract: "A free toolkit for planning usage-based cloud and AI products: an Excel model, a Python script and an LLM skill package that link usage to revenue, LLM cost, cloud cost, gross margin and a risk-adjusted ROI range. All example data is synthetic."
+keywords:
+  - FP&A
+  - usage-based pricing
+  - agentic AI
+  - financial planning
+  - cloud cost
+# doi: add the DOI here after the first archived release (for example via Zenodo)
+references:
+  - type: article
+    authors:
+      - family-names: "Chopra"
+        given-names: "Ankit"
+    title: "Financial Planning for Agentic & AI Systems: Managing Volatility in the Age of Autonomy"
+    journal: "California Management Review Insights"
+    year: 2026
+    month: 2
+    url: "https://cmr.berkeley.edu/2026/02/financial-planning-for-agentic-ai-systems-managing-volatility-in-the-age-of-autonomy/"

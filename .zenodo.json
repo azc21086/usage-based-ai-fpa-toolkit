@@ -1,0 +1,26 @@
+{
+  "title": "Usage-Based AI FP&A Toolkit",
+  "upload_type": "software",
+  "description": "A free toolkit for planning usage-based cloud and AI products: an Excel model, a Python script and an LLM skill package that link usage to revenue, LLM cost, cloud cost, gross margin and a risk-adjusted ROI range. Companion to 'Financial Planning for Agentic & AI Systems: Managing Volatility in the Age of Autonomy' (California Management Review Insights, 2026). All example data is synthetic and illustrative.",
+  "creators": [
+    {
+      "name": "Chopra, Ankit",
+      "orcid": "0009-0003-2572-2050"
+    }
+  ],
+  "keywords": [
+    "FP&A",
+    "usage-based pricing",
+    "agentic AI",
+    "financial planning",
+    "cloud cost",
+    "LLM cost"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://cmr.berkeley.edu/2026/02/financial-planning-for-agentic-ai-systems-managing-volatility-in-the-age-of-autonomy/",
+      "scheme": "url"
+    }
+  ]
+}

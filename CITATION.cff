@@ -8,6 +8,7 @@ license: MIT
 authors:
   - family-names: "Chopra"
     given-names: "Ankit"
+    orcid: "https://orcid.org/0009-0003-2572-2050"
 abstract: "A free toolkit for planning usage-based cloud and AI products: an Excel model, a Python script and an LLM skill package that link usage to revenue, LLM cost, cloud cost, gross margin and a risk-adjusted ROI range. All example data is synthetic."
 keywords:
   - FP&A
@@ -21,6 +22,7 @@ references:
     authors:
       - family-names: "Chopra"
         given-names: "Ankit"
+        orcid: "https://orcid.org/0009-0003-2572-2050"
     title: "Financial Planning for Agentic & AI Systems: Managing Volatility in the Age of Autonomy"
     journal: "California Management Review Insights"
     year: 2026

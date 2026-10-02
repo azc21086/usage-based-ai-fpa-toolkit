@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this toolkit, please cite it as below."
 title: "Usage-Based AI FP&A Toolkit"
-version: 1.0.0
-date-released: 2026-10-01
+version: 1.0.1
+date-released: 2026-10-02
 type: software
 license: MIT
 authors:
@@ -16,7 +16,7 @@ keywords:
   - agentic AI
   - financial planning
   - cloud cost
-# doi: add the DOI here after the first archived release (for example via Zenodo)
+doi: "10.5281/zenodo.23094239"
 references:
   - type: article
     authors:
